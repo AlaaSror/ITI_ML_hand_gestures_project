@@ -1,0 +1,10 @@
+artifact_location: file:d:/ITI/ML 1_project/mlruns/736677134348880829/models/m-8061452661e34cf9b8ab7a30cc44d0e6/artifacts
+creation_timestamp: 1772315439510
+experiment_id: '736677134348880829'
+last_updated_timestamp: 1772315443227
+model_id: m-8061452661e34cf9b8ab7a30cc44d0e6
+model_type: null
+name: model
+source_run_id: 00ad1150c7134d4eb16c5229ce766f6a
+status: 2
+status_message: null

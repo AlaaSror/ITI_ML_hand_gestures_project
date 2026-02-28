@@ -1,7 +1,7 @@
-artifact_location: file:D:/ITI/ML 1_project/mlruns/0
-creation_time: 1772314331960
+artifact_location: file:d:/ITI/ML 1_project/mlruns/0
+creation_time: 1772315400594
 experiment_id: '0'
-last_update_time: 1772314331960
+last_update_time: 1772315400594
 lifecycle_stage: active
 name: Default
 workspace: default

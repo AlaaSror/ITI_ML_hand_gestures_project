@@ -1,0 +1,14 @@
+artifact_uri: file:d:/ITI/ML 1_project/mlruns/736677134348880829/00ad1150c7134d4eb16c5229ce766f6a/artifacts
+end_time: 1772315443238
+entry_point_name: ''
+experiment_id: '736677134348880829'
+lifecycle_stage: active
+run_id: 00ad1150c7134d4eb16c5229ce766f6a
+run_name: logistic-regression-baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772315438458
+status: 3
+tags: []
+user_id: alaaa
