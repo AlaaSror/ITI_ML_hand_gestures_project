@@ -1,0 +1,14 @@
+artifact_uri: file:d:/ITI/ML 1_project/mlruns/736677134348880829/dd2da08f214e47ddaf6628cf578de747/artifacts
+end_time: 1772315560032
+entry_point_name: ''
+experiment_id: '736677134348880829'
+lifecycle_stage: active
+run_id: dd2da08f214e47ddaf6628cf578de747
+run_name: decision-tree-baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772315555888
+status: 3
+tags: []
+user_id: alaaa
