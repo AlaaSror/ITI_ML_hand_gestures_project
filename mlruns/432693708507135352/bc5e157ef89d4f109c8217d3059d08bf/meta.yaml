@@ -1,0 +1,14 @@
+artifact_uri: file:D:/ITI/ML 1_project/mlruns/432693708507135352/bc5e157ef89d4f109c8217d3059d08bf/artifacts
+end_time: 1772312762127
+entry_point_name: ''
+experiment_id: '432693708507135352'
+lifecycle_stage: active
+run_id: bc5e157ef89d4f109c8217d3059d08bf
+run_name: test-run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772312762115
+status: 3
+tags: []
+user_id: alaaa
