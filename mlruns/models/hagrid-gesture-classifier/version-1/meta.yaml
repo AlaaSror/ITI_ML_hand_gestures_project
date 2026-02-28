@@ -1,0 +1,16 @@
+creation_timestamp: 1772316465225
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1772316465225
+model_id: m-0cd2d8072a9d47ac95fcfaa1c46542f4
+name: hagrid-gesture-classifier
+run_id: dbaf1ae2332746958db0ccd48b1ba718
+run_link: null
+source: models:/m-0cd2d8072a9d47ac95fcfaa1c46542f4
+status: READY
+status_message: null
+storage_location: file:d:/ITI/ML 1_project/mlruns/736677134348880829/models/m-0cd2d8072a9d47ac95fcfaa1c46542f4/artifacts
+user_id: null
+version: 1
+workspace: default
