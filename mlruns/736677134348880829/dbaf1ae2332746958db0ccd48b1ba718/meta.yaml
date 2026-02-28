@@ -1,0 +1,14 @@
+artifact_uri: file:d:/ITI/ML 1_project/mlruns/736677134348880829/dbaf1ae2332746958db0ccd48b1ba718/artifacts
+end_time: 1772316322411
+entry_point_name: ''
+experiment_id: '736677134348880829'
+lifecycle_stage: active
+run_id: dbaf1ae2332746958db0ccd48b1ba718
+run_name: random-forest-n100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772316317898
+status: 3
+tags: []
+user_id: alaaa
